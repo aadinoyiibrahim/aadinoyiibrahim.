@@ -16,3 +16,5 @@ I'm Abdul or @aadinoyiibrahim
     <img src ="./figs/allpaths.png"><br>
     <img src ="./figs/allpaths2.png"><br>
     </p>
+
+You can get in touch via abdullahi.ibrahim[at]tuebingen.mpg.de
